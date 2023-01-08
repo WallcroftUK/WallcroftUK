@@ -26,3 +26,7 @@
 
 
 [![Wallcroft's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallcroftUK&show_icons=true&hide=[%22issues%22])
+
+<!--
+used best template :) Thanks Blowa
+-->
