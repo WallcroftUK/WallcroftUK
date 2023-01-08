@@ -1,6 +1,5 @@
 # WallcroftUK 
 
-Cloud Engineer, living in Paris, France.
 
 ## Social:
 <a href="https://github.com/WallcroftUK"><img src="https://img.shields.io/badge/-@WallcroftUK-%23181717?style=flat-square&logo=github" height="25"></a>
