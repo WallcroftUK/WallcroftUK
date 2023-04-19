@@ -47,7 +47,7 @@ Tech stack:
 ```yaml
 - Game Server: .NET 6, gRPC, RabbitMQ, ELK, PostgreSQL
 - DevOps: Kubernetes, Docker, Gitlab CI, ElasticSearch, Prometheus, K3s
-- Internal softwares (own made): Golang, Python, .NET Core, C++, Powershell
+- Internal softwares (own made): Python, .NET Core, C++, Powershell
 - Web: VueJS (frontend), ASP.NET Core (Backend)
 - Client SDK: C++, ASM
 - Resources Modding: C#, Golang
