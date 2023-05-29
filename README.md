@@ -25,6 +25,8 @@
 <code><img height="60" src="https://avatars.githubusercontent.com/u/5184305?s=200&v=4"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="60" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4"></code>
+<code><img height="60" src="https://avatars3.githubusercontent.com/u/5185491?s=200&v=4"></code>
+
 
 ## CI/CD experience:
 
