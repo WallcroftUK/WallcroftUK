@@ -39,18 +39,12 @@
 
 A MMORPG Private Server of the game NosTale, with working port for MacOS (will be released at release day of NosQuest).
 
-I work on all sides of the project, but my main focus are:
-- DevOps (SysAdmin, Kub admin, infra provisioning, CI/CD automation, making of basic workflows)
-- Developing high productivity tooling/workflows
-- Proper port for MacOS with all client modifications
-
-
 Tech stack: 
 ```yaml
 - Game Server: .NET 6, gRPC, RabbitMQ, ELK, PostgreSQL
 - DevOps: Kubernetes, Docker, Gitlab CI, ElasticSearch, Prometheus, K3s
 - Internal softwares (own made): Python, .NET Core, C++, Powershell
-- Web: VueJS (frontend), ASP.NET Core (Backend)
+- Web: React (frontend), Ruby Rails (Backend)
 - Client SDK: C++, ASM
 - Resources Modding: C#, Golang
 ```
