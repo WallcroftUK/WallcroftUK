@@ -41,12 +41,12 @@ A MMORPG Private Server of the game NosTale, with working port for MacOS (will b
 
 Tech stack: 
 ```yaml
-- Game Server: .NET 7, gRPC, RabbitMQ, ELK, PostgreSQL
+- Game Server: .NET 8, gRPC, RabbitMQ, ELK, PostgreSQL, MongoDB
 - DevOps: Kubernetes, Docker, Gitlab CI, ElasticSearch, Prometheus, K3s
 - Internal softwares (own made): Python, .NET Core, C++, Powershell
-- Web: React (frontend), Ruby Rails (Backend)
+- Web: React (frontend), Ruby Rails (Backend), Laravel
 - Client SDK: C++, ASM
-- Resources Modding: C#, Golang
+- Resources Modding: C#, Golang, C++
 ```
 
 [![Wallcroft's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallcroftUK&show_icons=true&hide=[%22issues%22])
