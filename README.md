@@ -1,14 +1,18 @@
 # WallcroftUK
 
-**Cybersecurity Engineer • Offensive Security • Reverse Engineering • Developer**
+**Software Engineer @ Entwell • Reverse Engineering • Offensive Security**
 
-I specialize in uncovering systemic weaknesses that traditional security teams overlook.  
-My focus is offensive security, exploit development, and deep analysis of software and network vulnerabilities.
+I specialize in low-level systems, software architecture, and uncovering systemic weaknesses. Currently, I am applying my background in reverse engineering and exploit development to official game systems.
 
-I do not rely on academic validation — I rely on measurable results in the field.  
-If a system is secure, I leave it untouched.  
-If a system fails under pressure, I document, disclose responsibly, and move on.
+**Current Focus:** Developing internal tools and client-side architecture for **NosTale** at **Entwell(NewAge)** using **Delphi 12**.
 
+---
+
+### 🔭 Currently Working On
+* **Entwell NosTale Client/Tools:** Modernizing and maintaining core systems in Delphi 12.
+* **Reverse Engineering:** Deep-dive analysis of legacy binaries and modern protection layers.
+* **Security Research:** Kernel-level architecture and advanced sandbox evasion.
+  
 ---
 
 ### 🔐 Security Track Record
@@ -19,73 +23,35 @@ If a system fails under pressure, I document, disclose responsibly, and move on.
 | **Confirmed Breaches / Full Intrusions** | **16** |
 | **Custom Exploits Developed** | **43** |
 
-> *Every number represents real systems and real software — not theory.*
+---
+
+### 🧠 Primary Stack
+<code><img height="45" title="Delphi" src="https://img.shields.io/badge/Delphi-%23E32D2F.svg?style=for-the-badge&logo=delphi&logoColor=white"></code>
+<code><img height="45" title="C++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code> 
+<code><img height="45" title="C#" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code> 
+<code><img height="45" title="Assembly" src="https://raw.githubusercontent.com/github/explore/master/topics/assembly/assembly.png"></code>
+<code><img height="45" title="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> 
+<code><img height="45" title="Go" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code> 
 
 ---
 
-### 🔭 Currently Researching
-• Kernel-level anti-cheat bypass architecture  
-• Advanced sandbox evasion for malware analysis  
-• Distributed server orchestration for MMORPG scaling
+### 🛠 Tools & Reverse Engineering
+<code><img height="45" title="RAD Studio" src="https://img.shields.io/badge/RAD%23Studio-%23E32D2F.svg?style=for-the-badge&logo=embarcadero&logoColor=white"></code>
+<code><img height="45" title="Ghidra" src="https://avatars.githubusercontent.com/u/48333017?v=4"></code>
+<code><img height="45" title="x64dbg" src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4"></code> 
+<code><img height="45" title="Docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code> 
+<code><img height="45" title="Kubernetes" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="45" title="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code> 
+
+---
+
+### 📂 Legacy / Paused Projects
+* **NosQuest (Tech Lead):** MMORPG re-implementation with MacOS support. [PAUSED]
+* **AetherHosting:** Cloud infrastructure and orchestration. [PAUSED]
+* **HackerWorld:** Security research and offensive tooling. [PAUSED]
 
 ---
 
 ## 🌍 Social
 <a href="https://github.com/WallcroftUK"><img src="https://img.shields.io/badge/-@WallcroftUK-%23181717?style=flat-square&logo=github" height="25"></a>
 <a href="#"><img src="https://img.shields.io/badge/-WallcroftUK%231101-%232c2f33?style=flat-square&logo=discord" height="25"></a>
-
----
-
-## 🧠 Languages
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code> 
-<code><img height="45" src="https://www.shutterstock.com/image-vector/asm-file-type-format-icon-600nw-2455941207.jpg"></code>
-
----
-
-## 🛠 Frameworks & Tools
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/grpc/grpc.png"></code> 
-<code><img height="45" src="https://herve.beraud.io/images/blog/rabbitmq.png"></code> 
-<code><img height="45" src="https://avatars.githubusercontent.com/u/3520988?s=200&v=4"></code> <!-- PostgreSQL --> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"></code>
-<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPyUcx9Rqcv7aKhASbNcFHRARX3wsJU0xtg&s"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code> 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
-
----
-
-## 🕸 Reverse Engineering / Security Tooling
-<code><img height="45" src="https://avatars.githubusercontent.com/u/48333017?v=4"></code> <!-- Ghidra --> 
-<code><img height="45" src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4"></code> 
-<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg"></code> 
-<code><img height="45" src="https://avatars.githubusercontent.com/u/63385?s=200&v=4"></code>
-
----
-
-## ☁ Cloud Provider Experience
-<code><img height="45" src="https://avatars.githubusercontent.com/u/5184305?s=200&v=4"></code> <!-- AWS -->
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></code>
-<code><img height="45" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code> <!-- DigitalOcean -->
-<code><img height="45" src="https://avatars.githubusercontent.com/u/5185491?s=200&v=4"></code> <!-- Hetzner -->
-
----
-
-## 🚀 Current Project — **NosQuest** (Tech Lead)
-
-MMORPG private server re-implementation of *NosTale* with a dedicated **MacOS client build** and modern scalable infrastructure.
-
-```yaml
-Game Server: .NET 8, gRPC, RabbitMQ, ELK, PostgreSQL, MongoDB
-DevOps: Kubernetes, Docker, GitLab CI, ElasticSearch, Prometheus, K3s
-Internal Software: Python, .NET Core, C++, PowerShell
-Web: Vue.js (frontend), Ruby on Rails (backend), Laravel
-Client SDK: C++, ASM
-Resource Modding: C#, Golang, C++
