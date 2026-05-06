@@ -19,9 +19,9 @@ I specialize in low-level systems, software architecture, and uncovering systemi
 
 | Category | Count |
 |---------|-------|
-| **CVE Contributions** | **61** |
-| **Confirmed Breaches / Full Intrusions** | **16** |
-| **Custom Exploits Developed** | **43** |
+| **CVE Contributions** | **187** |
+| **Confirmed Breaches / Full Intrusions** | **31** |
+| **Custom Exploits Developed** | **57** |
 
 ---
 
