@@ -125,7 +125,3 @@ NTSTATUS EptSplitLargePage(PEPT_STATE State, ULONG64 PhysAddr)
 * **HackerWorld** — Security research and offensive tooling. `paused`
 
 ---
-
-## 🌍 Social
-<a href="https://github.com/WallcroftUK"><img src="https://img.shields.io/badge/-@WallcroftUK-%23181717?style=flat-square&logo=github" height="25"></a>
-<a href="#"><img src="https://img.shields.io/badge/-WallcroftUK%231101-%232c2f33?style=flat-square&logo=discord" height="25"></a>
