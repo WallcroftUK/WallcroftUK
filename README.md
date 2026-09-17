@@ -18,13 +18,13 @@ reverse engineering. Currently a Driver Developer at **WarChill Team**.
 
 ### 🔭 Active Projects
 
-| Project | Stack | Role |
-|---|---|---|
-| **WarChill — Kernel & Hypervisor** | C, WDK, Intel VT-x, AMD SVM | Driver Dev |
-| **Project Intoner** | C++, D3D12, ECS | Sole Dev |
-| **NosQuest** | C#, custom server stack | Tech Lead |
-| **Entwell (NewAge) — NosTale** | Delphi 12 | Internal Tools |
-
+| Project | Stack | Role | Link |
+|---|---|---|---|
+| **WarChill — Kernel & Hypervisor** | C, WDK, Intel VT-x, AMD SVM | Driver Dev | None |
+| **Project Intoner** | C++, D3D12, ECS | Sole Dev | None |
+| **NosQuest** | C#, custom server stack | Tech Lead | [Discord](https://discord.gg/Jm4JEbVvEr) |
+| **Entwell (NewAge) — NosTale** | Delphi 12 | Internal Tools | None |
+| **NTServer — NosTale** | C++ | Tech Lead | [Discord](https://discord.gg/BjPSq3SSA5) |
 ---
 
 ### ⚙️ Day-to-Day
